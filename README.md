@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fading-glow-of-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Fading Glow Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-glow-of-us/) |
+| **Get License** | [Secure Licensing Rights for Fading Glow Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-glow-of-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Shadows falling soft across the floor
+> I have never wanted someone more
+> Pulling closer underneath the light
+> Getting lost inside of you tonight
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)

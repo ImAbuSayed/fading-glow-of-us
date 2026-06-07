@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/fading-glow-of-us/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Fading Glow Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-glow-of-us/) |
+| **Get License** | [Commercial Licensing for Fading Glow Of Us](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/fading-glow-of-us/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f8b976d7bda1c2ff4de6f0b9e6fb79084f3c75d7376824daee00abcd025815f7` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
